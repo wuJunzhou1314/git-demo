@@ -5,3 +5,4 @@ hello git I Love Git!
 hello git I Love Git!  master update!
 hello git I Love Git!  hot-fix update!
 pull project to localhost(本地)
+git-demo2 push project to github
