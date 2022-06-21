@@ -4,3 +4,4 @@ hello git I Love Git!  我又又修改了！
 hello git I Love Git!
 hello git I Love Git!  master update!
 hello git I Love Git!  hot-fix update!
+pull project to localhost(本地)
